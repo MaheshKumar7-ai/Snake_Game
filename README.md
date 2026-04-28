@@ -10,6 +10,7 @@ and Object-Oriented Programming basic concepts.
 - Snake movement using keyboard keys
 - Food collision detection
 - Score tracking
+- High Score 
 - Game over when snake hits wall or its body part
 
 ## Technologies used
